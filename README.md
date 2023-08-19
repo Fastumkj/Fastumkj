@@ -3,7 +3,6 @@ Currently working on (05/23):
 
 2. Project Orbital (Game filtering website) with 1uck13ss (https://github.com/1uck13ss/Cyber-Crusaders)
 
-3. Learning Katalon Studios soon
 
 - 👋 Hi, I’m Pung Kah Jyun
 - 👀 I’m interested in coding, solving programming problems, building new things!
