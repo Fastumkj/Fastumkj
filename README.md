@@ -1,4 +1,4 @@
-<h6 align="left">Currently working on (05/23):<br>1. Portfolio Web: https://kj-portfolio23.vercel.app/ <br>2. - <br><br>- 👀 I’m interested in coding, solving programming problems, building new things!</h6>
+<h6 align="left">Currently working on (08/24):<br>1. Internships focusing on Full-stack development <br>2. - <br><br>- 👀 I’m interested in coding, solving programming problems, building new things!</h6>
 
 ###
 
